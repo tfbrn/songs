@@ -16,8 +16,8 @@ const body = document.querySelector("body");const swalst = Swal.mixin({timer: 25
   
   const box = document.getElementById('pergeseran');
   const directChildren = box.children.length;
-  console.log('Script ini dibuat oleh: www.feeldream.id');
-  console.log('Instagram: @rayyarrr');
+  console.log('Script ini dibuat oleh: Pacarmu');
+  console.log('Instagram: @tfbrn__');
   console.log('Total Slide: ', directChildren);
   totalPesan = directChildren;
   
